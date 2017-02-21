@@ -6,6 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>首页</title>
+	<h1>LLLLL</h1>
 <!-- 图标 -->
 <link rel="Shortcut Icon" href="${pageContext.request.contextPath}/picture/ico/ts2.png">
 
